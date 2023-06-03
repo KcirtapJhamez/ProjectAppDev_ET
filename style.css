@@ -1,0 +1,18 @@
+.logo{
+    flex-basis: 5%;
+    cursor: pointer;
+    margin-right: 10px;
+}
+.logo img{
+    width: 100px;
+    margin: 5px 0;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .menu {
+    margin-left: 10px; /* Adjust the value to add space between the logo and menu */
+  }
